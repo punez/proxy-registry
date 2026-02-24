@@ -14,7 +14,11 @@
     "extract_regex": "^(vmess|vless|trojan|ss|ssr|hy2|tuic):\\/\\/"
   },
   "shards": {
-    "collector-a": [],
+    "collector-a": [
+https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB,
+https://raw.githubusercontent.com/MrBihal/Channel-Hddify/refs/heads/main/MeLi-Shekan,
+https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt
+    ],
     "collector-b": []
   }
 }
