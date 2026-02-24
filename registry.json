@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "global": {
+    "max_per_source": 3000,
+    "enabled_protocols": [
+      "vmess",
+      "vless",
+      "trojan",
+      "ss",
+      "ssr",
+      "hy2",
+      "tuic"
+    ],
+    "extract_regex": "^(vmess|vless|trojan|ss|ssr|hy2|tuic):\\/\\/"
+  },
+  "shards": {
+    "collector-a": [],
+    "collector-b": []
+  }
+}
