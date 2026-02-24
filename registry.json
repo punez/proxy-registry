@@ -22,6 +22,7 @@
     "collector-b": [
 "https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt#%F0%9F%91%BDAnonymous-%F0%9D%95%8F",
 "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt#proxies",
+"https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/6.txt",
 "https://raw.githubusercontent.com/MrBihal/Hddify/refs/heads/main/MDR"
     ]
   }
